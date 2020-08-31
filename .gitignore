@@ -12,3 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+.DS_Store # only needed under mac os
+.idea
+*.apk #optional
